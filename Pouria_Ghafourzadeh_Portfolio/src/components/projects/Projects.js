@@ -19,7 +19,8 @@ const data = [
     image: IMG2,
     title:
       "Personal portfolio built on ReactJS with user friendly navigation system",
-    github: "https://github.com",
+    github:
+      "https://github.com/PouryaAce/Portfolio/tree/main/Pouria_Ghafourzadeh_Portfolio",
   },
   {
     id: 3,
