@@ -1,6 +1,5 @@
 {
   "name": "react-portfolio-website-1",
-  "homepage": "https://egattor.com/rp2447",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,7 +19,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "npm run build; surge build PouriaGhafourzadeh.surge.sh"
   },
   "eslintConfig": {
     "extends": [
