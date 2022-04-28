@@ -19,21 +19,21 @@ const About = () => {
 
         <div className="about__content">
           <p>
-            I am a junior full-stack developer who brings a balance of both
-            critical problem-solving and creativity into everything I do. I have
-            always had an interest in computers, starting with my initial
-            Bachelors degree studies in Software Engineering. After making the
-            move to Australia, I took a career detour and have worked in a
-            variety of fields including audio engineering, music production, and
-            as an air conditioning technician. It was recently that I decided to
-            make the move back to software engineering and this urge pushed me
-            into undertaking the Software Engineering Immersive course at
-            General Assembly. It is through this that I have gained coding
-            skills in a variety of programming languages , recognising problems
-            and using the right tools to solve them. These coupled with my side
-            hobby as a DJ have helped hone my unique approach to creative
-            problem-solving. I'd love to have a chat about any opportunities you
-            may have, so please get in touch!
+            I am a full-stack developer who brings a balance of both critical
+            problem-solving and creativity into everything I do. I have always
+            had an interest in computers, starting with my initial Bachelors
+            degree studies in Software Engineering. After making the move to
+            Australia, I took a career detour and have worked in a variety of
+            fields including audio engineering, music production, and as an air
+            conditioning technician. It was recently that I decided to make the
+            move back to software engineering and this urge pushed me into
+            undertaking the Software Engineering Immersive course at General
+            Assembly. It is through this that I have gained coding skills in a
+            variety of programming languages , recognising problems and using
+            the right tools to solve them. These coupled with my side hobby as a
+            DJ have helped hone my unique approach to creative problem-solving.
+            I'd love to have a chat about any opportunities you may have, so
+            please get in touch!
           </p>
 
           <div className="links">
