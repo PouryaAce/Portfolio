@@ -68,9 +68,11 @@ header {
   header {
     height: 68vh;
   }
-
+  .me {
+  }
   .me img {
-    width: 300px;
+    width: 228px;
+    height: 236px;
   }
   .header__socials {
     bottom: 0rem;
@@ -85,11 +87,13 @@ header {
     padding-top: 4rem;
   }
 
-  .header__socials,
-  .scroll__down {
-    display: none;
+  .header__socials {
+    /* display: none; */
+    bottom: 210px;
   }
-
+  .scroll__down {
+    bottom: 250px;
+  }
   .me {
     width: 94%;
     /* max-width: 20rem; */

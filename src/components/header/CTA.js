@@ -2,14 +2,12 @@ import React from "react";
 import Resume from "../../assets/resume.pdf";
 
 const CTA = () => {
+  const openResume = () => {
+    window.open(`${Resume}`, "_blank");
+  };
   return (
     <div className="cta">
-      <a
-        href="https://drive.google.com/file/d/105lM6yMUZHY8UydD9yPNO5DGuyYEYKas/view?usp=sharing"
-        download
-        className="btn"
-        target="_blank"
-      >
+      <a onClick={openResume} download className="btn" target="_blank">
         Download Resume
       </a>
       <a href="#contact" className="btn btn-primary">
