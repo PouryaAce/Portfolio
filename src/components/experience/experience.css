@@ -10,7 +10,7 @@
   margin: 12px 0px;
   color: var(--color-primary);
 }
-li {
+.experience__container__ul li {
   list-style: disc;
   text-align: left;
   margin: 15px 0px;

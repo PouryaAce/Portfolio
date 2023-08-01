@@ -70,8 +70,8 @@
 
 .about__content p {
   margin: 0rem 0 2.6rem;
-  color: var(--color-light);
-  text-shadow: 1px 0px #73a80a;
+  color: rgb(255 255 255);
+  text-shadow: 0px 1px 0px #adadad;
 }
 .links {
   display: flex;

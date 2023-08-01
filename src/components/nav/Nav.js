@@ -5,6 +5,7 @@ import { AiOutlineUser } from "react-icons/ai";
 import { BsGear } from "react-icons/bs";
 import { BsFileCheck } from "react-icons/bs";
 import { BiMessageSquareDetail } from "react-icons/bi";
+import { BsClockHistory } from "react-icons/bs";
 import { useState } from "react";
 
 const Nav = () => {
@@ -24,6 +25,13 @@ const Nav = () => {
         className={activeNav === "#about" ? "active" : ""}
       >
         <AiOutlineUser />
+      </a>
+      <a
+        href="#experience"
+        onClick={() => setActiveNav("#experience")}
+        className={activeNav === "#experience" ? "active" : ""}
+      >
+        <BsClockHistory />
       </a>
 
       <a

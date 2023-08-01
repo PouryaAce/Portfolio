@@ -20,8 +20,8 @@ const Experience = () => {
         </div>
         <div>
           <h4>Key roles and achievements</h4>
-          <ul>
-            <li>
+          <ul className="experience__container__ul">
+            <li className="">
               Website development and enhancements using PHP, JavaScript, SASS
               and HTML.
             </li>
