@@ -19,7 +19,7 @@ const About = () => {
 
         <div className="about__content">
           <p>
-            I am a full-stack developer who brings a balance of both critical
+            I am a front-end developer who brings a balance of both critical
             problem-solving and creativity into everything I do. I have always
             had an interest in computers, starting with my initial Bachelors
             degree studies in Software Engineering. After making the move to

@@ -1,0 +1,20 @@
+.experience {
+  width: 80%;
+  margin: 0 auto;
+}
+.experience__container .div {
+  text-align: center;
+}
+.experience__container h4 {
+  text-align: center;
+  margin: 12px 0px;
+  color: var(--color-primary);
+}
+li {
+  list-style: disc;
+  text-align: left;
+  margin: 15px 0px;
+}
+img {
+  border-radius: 10px;
+}

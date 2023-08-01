@@ -3,10 +3,12 @@
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
   padding-bottom: 165px;
+  width: 80%;
+  margin: 0 auto;
 }
 
 .experience__container > div {
-  background: var(--color-bg-variant);
+  background: #9b9b9b91;
   padding: 2.4rem 5rem;
   border-radius: 2rem;
   border: 1px solid transparent;

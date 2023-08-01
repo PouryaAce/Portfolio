@@ -2,9 +2,9 @@ import React from "react";
 import "./skills.css";
 import { BsPatchCheckFill } from "react-icons/bs";
 
-const Experience = () => {
+const Skills = () => {
   return (
-    <section id="experience">
+    <section id="skills">
       <h2>My Skills</h2>
 
       <div className="container experience__container">
@@ -123,4 +123,4 @@ const Experience = () => {
   );
 };
 
-export default Experience;
+export default Skills;
